@@ -40,7 +40,7 @@
 	"dependencies": {
 		"commander": "^5.1.0",
 		"cookies": "^0.8.0",
-		"flatbush": "^3.2.1",
+		"flatbush": "^3.3.0",
 		"iconv-lite": "0.4.24",
 		"mproj": "0.0.26",
 		"opn": "^5.3.0",
